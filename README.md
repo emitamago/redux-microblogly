@@ -1,4 +1,4 @@
-#redux-microblogly
+
 
 this is part of rithm school projects. I worked on this with partner.
 
