@@ -15,3 +15,9 @@ It taught us greate deal of real world development. No matter how you carefully 
 
 Also, it taught us importance to see and understand whole project data flow when I designed even small part of codebase to
 avoid any possilbe unnecessary refactoring.
+
+# Technologies
+- React
+- Redux
+- Express
+- Jest/enzyme
